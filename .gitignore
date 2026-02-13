@@ -1,0 +1,51 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+ENV/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Archives
+*.zip
+*.tar.gz
+*.tar
+*.rar
+
+# Image/video/media files (optional, comment out if needed)
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.mp4
+# *.webp
+
+# Node.js (if present in subfolders)
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore test outputs
+*.out
+*.test
+
+# Ignore compiled binaries
+*.so
+*.dll
+*.exe
+*.o
+*.a
+*.dylib
