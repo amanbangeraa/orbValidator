@@ -10,8 +10,6 @@ venv/
 ENV/
 env/
 
-# Data files (images)
-data/
 
 # IDE
 .vscode/
